@@ -6,4 +6,4 @@
 
 ## Español
 
-### El universal custom firmware refactor universal es una herramienta para firmwares personalizados, reemplace fácilmente sus parámetros personalizados entre versiones sin cambiar uno por uno y hágalo en solo SEGUNDOS
+### El universal custom firmware refactor es una herramienta para firmwares personalizados, reemplace fácilmente sus parámetros personalizados entre versiones sin cambiar uno por uno y hágalo en solo SEGUNDOS
