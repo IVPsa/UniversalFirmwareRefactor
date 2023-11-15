@@ -28,11 +28,11 @@ Now you have to write your custom values of your firmware and paste it in <b>dic
 <code>
 
     dic_Var_default_Configuration[
-       'variable=custom value'
-    
+        'variable=custom value'    
+
 </code>
 
-#### note: the variables may vary on firware programming language
+#### note: the variables may vary on firmware programming language
 
 ### STEP 3 
 
@@ -48,6 +48,4 @@ In the file you put the directory and name of the file <b>WITH HIS EXTENSION </b
 
 save and run 
 
-<code> 
-    py .\universal_FW_refactor.py
-</code>
+<code>py .\universal_FW_refactor.py</code>
